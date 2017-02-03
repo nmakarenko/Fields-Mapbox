@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fields</string>
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_field_info">FieldInfoActivity</string>
+    <string name="access_token">pk.eyJ1Ijoic29sYWlyZSIsImEiOiJjaXlvb29tNHAwMDVxMndwZnJkeTJpNWt6In0.w49yP50jQBBa28Hj6g_PJg</string>
+    <string name="title_activity_map">Map</string>
+</resources>
